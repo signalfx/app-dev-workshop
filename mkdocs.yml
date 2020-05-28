@@ -111,6 +111,7 @@ nav:
     - '<b>µAPM</b><br /><small>25-45 minutes</small>':
       - 'µAPM Architecture Overview': apm/index.md
       - 'Deploying Hot R.O.D. in K3s': apm/hotrod.md
+      - 'Troubleshooting apm': apm/hotrod-trouble.md
     - '<b>Service Bureau</b><br /><small>20 minutes</small>':
         - 'Billing and Usage' : servicebureau/service_bureau.md
         - 'Teams' : servicebureau/teams.md
