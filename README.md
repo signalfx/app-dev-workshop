@@ -1,4 +1,4 @@
-# Welcome to the Splunk ~~App Dev~~ DevOps Workshop
+# Welcome to the Splunk Observability Workshop
 
-To get started, please proceed to [The DevOps Workshop Homepage](https://signalfx.github.io/devops-workshop/latest/).
+To get started, please proceed to [Observability Workshop Homepage](https://signalfx.github.io/observability-workshop/).
 
